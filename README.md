@@ -13,6 +13,8 @@
   * Recursively
 * Use dynamic programming to find the first X prime numbers
 * Pascals Triangle Algorithim
+  * Binomial Coefficient
+  * Array
 
 ### Strings
 * Find the first non-repeated character in a String

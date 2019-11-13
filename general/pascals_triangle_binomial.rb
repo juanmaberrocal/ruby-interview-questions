@@ -2,7 +2,7 @@
 
 # O(n^2)
 # Binomial Coefficient
-def pascals_triangle(nth_iteration)
+def pascals_triangle_binomial(nth_iteration)
   pascal = []
 
   nth_iteration.times do |line|
@@ -30,4 +30,4 @@ end
 
 nth_iteration = ARGV.first.to_i
 
-p pascals_triangle(nth_iteration)
+p pascals_triangle_binomial(nth_iteration)
